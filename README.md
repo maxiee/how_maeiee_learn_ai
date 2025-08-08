@@ -10,6 +10,28 @@
 
 
 
+# 模型
 
+## GPT-5
+
+发布时间：2025-08-08
+
+没有带来革新，不及预期，OpenAI进展放缓。
+
+型号：GPT-5、Thinking、Pro。
+
+400k上下文，128K输出，多模态输入。
+
+API：GPT-5、mini、nano。价格1.25美元/百万to­k­en，输出10美元/百万to­k­en。nano 更便宜。
+
+ChatGPT 免费版：每5小时10轮次GPT-5。之后切mini模型。每天1次GPT-5 Thinking。
+
+ChatGPT Plus：每3小时80轮次GPT-5。之后切mini模型。每周200次GPT-5 Thinking。
+
+ChatGPT Pro：GPT-5 不限量。访问 GPT-5 Pro。
+
+GPT-5-Thinking 代码能力：受reasoning强度影响大。
+
+Maeiee：免费版够我用了，ChatGPT Desktop很方便，没有充Plus欲望，省下钱玩API更香。
 
 
