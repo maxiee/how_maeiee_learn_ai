@@ -24,7 +24,7 @@ To GitHub 读者：
 
 ### AI Studio
 
-## Grok4
+### Grok4
 
 GPT-5 出了之后，X 的 Grok4 也向免费用户开放了。
 
